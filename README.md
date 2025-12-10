@@ -49,8 +49,8 @@ cd MusicTrackMetadata
 
 Find the details in:
 
-- [Backend](https://github.com/christianpiedrao/MusicTrackMetadata/MusicTrackMetadataApplication/)
-- [Frontend](https://github.com/christianpiedrao/MusicTrackMetadata/music-track-metadata-ui/)
+- [Backend](https://github.com/christianpiedrao/MusicTrackMetadata/tree/main/MusicTrackMetadataApplication)
+- [Frontend](https://github.com/christianpiedrao/MusicTrackMetadata/tree/main/music-track-metadata-ui)
 
 ---
 
